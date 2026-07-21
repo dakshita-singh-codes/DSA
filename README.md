@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/dakshita-singh-codes/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/dakshita-singh-codes/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/dakshita-singh-codes/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/dakshita-singh-codes/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
