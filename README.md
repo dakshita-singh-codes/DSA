@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/dakshita-singh-codes/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/dakshita-singh-codes/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/dakshita-singh-codes/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/dakshita-singh-codes/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dakshita-singh-codes/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshita-singh-codes/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -52,5 +54,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/dakshita-singh-codes/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/dakshita-singh-codes/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->
