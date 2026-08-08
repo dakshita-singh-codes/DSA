@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dakshita-singh-codes/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dakshita-singh-codes/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dakshita-singh-codes/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dakshita-singh-codes/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dakshita-singh-codes/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/dakshita-singh-codes/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dakshita-singh-codes/DSA/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/dakshita-singh-codes/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dakshita-singh-codes/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dakshita-singh-codes/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 <!---LeetCode Topics End-->
