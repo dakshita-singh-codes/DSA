@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/dakshita-singh-codes/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/dakshita-singh-codes/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/dakshita-singh-codes/DSA/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/dakshita-singh-codes/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1406-stone-game-iii](https://github.com/dakshita-singh-codes/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshita-singh-codes/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/dakshita-singh-codes/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/dakshita-singh-codes/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/dakshita-singh-codes/DSA/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/dakshita-singh-codes/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dakshita-singh-codes/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dakshita-singh-codes/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/dakshita-singh-codes/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dakshita-singh-codes/DSA/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/dakshita-singh-codes/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dakshita-singh-codes/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
@@ -117,14 +120,17 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/dakshita-singh-codes/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dakshita-singh-codes/DSA/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/dakshita-singh-codes/DSA/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/dakshita-singh-codes/DSA/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/dakshita-singh-codes/DSA/tree/main/1406-stone-game-iii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -150,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dakshita-singh-codes/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
