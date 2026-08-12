@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/dakshita-singh-codes/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshita-singh-codes/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/dakshita-singh-codes/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dakshita-singh-codes/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dakshita-singh-codes/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dakshita-singh-codes/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dakshita-singh-codes/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dakshita-singh-codes/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/dakshita-singh-codes/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -176,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/dakshita-singh-codes/DSA/tree/main/1510-stone-game-iv/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dakshita-singh-codes/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
