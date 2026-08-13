@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/dakshita-singh-codes/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshita-singh-codes/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/dakshita-singh-codes/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dakshita-singh-codes/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dakshita-singh-codes/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dakshita-singh-codes/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dakshita-singh-codes/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dakshita-singh-codes/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dakshita-singh-codes/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dakshita-singh-codes/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -182,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dakshita-singh-codes/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dakshita-singh-codes/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
