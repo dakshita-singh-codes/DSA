@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/dakshita-singh-codes/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0486-predict-the-winner](https://github.com/dakshita-singh-codes/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/dakshita-singh-codes/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/dakshita-singh-codes/DSA/tree/main/0877-stone-game/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/dakshita-singh-codes/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dakshita-singh-codes/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
