@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/dakshita-singh-codes/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/dakshita-singh-codes/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/dakshita-singh-codes/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/dakshita-singh-codes/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/dakshita-singh-codes/DSA/tree/main/0877-stone-game/) | Medium |
