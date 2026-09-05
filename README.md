@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/dakshita-singh-codes/DSA/tree/main/0344-reverse-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dakshita-singh-codes/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dakshita-singh-codes/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dakshita-singh-codes/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/dakshita-singh-codes/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0344-reverse-string](https://github.com/dakshita-singh-codes/DSA/tree/main/0344-reverse-string/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dakshita-singh-codes/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
